@@ -339,11 +339,11 @@ MonoBehaviour:
   width: 50
   height: 50
   depth: 50
-  minSurvivalNeighbourCount: 10
-  maxSurvivalNeighbourCount: 21
-  minBirthNeighbourCount: 10
-  maxBirthNeighbourCount: 21
-  initialDensity: 0.275
+  minSurvivalNeighbourCount: 4
+  maxSurvivalNeighbourCount: 5
+  minBirthNeighbourCount: 5
+  maxBirthNeighbourCount: 5
+  initialDensity: 0.2
   cell: {fileID: 1449732482079342, guid: 6cc45d2ce73470444837257bdf302693, type: 3}
   generation: 0
 --- !u!4 &996712563
@@ -666,7 +666,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -502, y: 514}
+  m_AnchoredPosition: {x: -111, y: 184}
   m_SizeDelta: {x: 500, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2095886403
